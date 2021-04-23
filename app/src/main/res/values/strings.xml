@@ -4,6 +4,7 @@
     <!-- activity_main -->
     <string name="image_description">Image selected for user</string>
     <string name="button_selected_photo">Selected a photo</string>
+    <string name="button_open_camera">Open camera</string>
 
     <!-- MainActivity -->
     <string name="toast_message">Permission denied</string>
